@@ -36,20 +36,12 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
 
 
-## Github Stats  
+##Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErayErman&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErayErman&hide_border=true&layout=compact" align="center" /></div>  
@@ -67,4 +59,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
