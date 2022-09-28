@@ -20,6 +20,17 @@
 
 <br/>  
 
+## Stats
+
+<p align="center">
+  <a href="https://coderstats.net/github/#Dentrax">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErayErman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErayErman&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
+  </a>
+</p>
+
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -38,13 +49,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-##Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErayErman&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErayErman&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
