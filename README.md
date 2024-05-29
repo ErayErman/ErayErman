@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on something cool   
   
 
-- 🌱 I’m currently learning AI, ML and Cloud  
+- 🌱 I’m currently learning AI, ML, Security and Cloud  
   
 
 - ❓ Ask me about anything related to Swift-iOS development and related technologies  
