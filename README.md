@@ -18,20 +18,6 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<br/>  
-
-## Stats
-
-<p align="center">
-  <a href="https://coderstats.net/github/#Eray">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErayErman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErayErman&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
-  </a>
-</p>
-
-
-<br/>  
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
